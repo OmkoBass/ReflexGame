@@ -69,6 +69,19 @@ nav h1
     position: absolute;
     top: 20%;
 }
+.grid-medium
+{
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.grid-hard
+{
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.grid-top
+{
+    position: absolute;
+    top: 10%;
+}
 .grid button
 {
     width: 12em;
